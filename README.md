@@ -1,7 +1,7 @@
 # TIP-Learning Converged Propagations with Deep Prior Ensemble for Image Enhancement
 Risheng Liu, Long Ma, Yiyang Wang, and Lei Zhang  
-Paper: https://arxiv.org/abs/1810.04012
-
+Paper link: https://arxiv.org/abs/1810.04012  
+We provide testing demo of deblurring as well as the pretrained model. You can test your images by runing demo.m
 # Citations
 @Article{Liu2019learning,  
 	Title                    = {Learning Converged Propagations with Deep Prior Ensemble for Image Enhancement},  
